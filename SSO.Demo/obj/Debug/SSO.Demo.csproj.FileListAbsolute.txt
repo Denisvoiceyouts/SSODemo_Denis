@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\SSO.Demo\SSO.Demo\bin\Debug\SSO.Demo.exe.config
+C:\Users\admin\source\repos\SSO.Demo\SSO.Demo\bin\Debug\SSO.Demo.exe.manifest
+C:\Users\admin\source\repos\SSO.Demo\SSO.Demo\bin\Debug\SSO.Demo.application
+C:\Users\admin\source\repos\SSO.Demo\SSO.Demo\bin\Debug\SSO.Demo.exe
+C:\Users\admin\source\repos\SSO.Demo\SSO.Demo\bin\Debug\SSO.Demo.pdb
+C:\Users\admin\source\repos\SSO.Demo\SSO.Demo\obj\Debug\SSO.Demo.Form1.resources
+C:\Users\admin\source\repos\SSO.Demo\SSO.Demo\obj\Debug\SSO.Demo.Properties.Resources.resources
+C:\Users\admin\source\repos\SSO.Demo\SSO.Demo\obj\Debug\SSO.Demo.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\SSO.Demo\SSO.Demo\obj\Debug\SSO.Demo.exe.manifest
+C:\Users\admin\source\repos\SSO.Demo\SSO.Demo\obj\Debug\SSO.Demo.application
+C:\Users\admin\source\repos\SSO.Demo\SSO.Demo\obj\Debug\SSO.Demo.exe
+C:\Users\admin\source\repos\SSO.Demo\SSO.Demo\obj\Debug\SSO.Demo.pdb
